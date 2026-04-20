@@ -3,3 +3,4 @@ engbench
 *.exe
 *.o
 .*/
+*.out
